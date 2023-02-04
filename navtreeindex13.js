@@ -1,5 +1,12 @@
 var NAVTREEINDEX13 =
 {
+"df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,14,22,2],
+"df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[11,0,14,22,1],
+"df/dcb/namespacestrings.html":[9,0,114],
+"df/dce/namespacegraph.html":[9,0,34],
+"df/dce/namespacegraph.html#a0e30e0dca68cb6e4f671440819b35b6a":[9,0,34,6],
+"df/dce/namespacegraph.html#a3ae80bc4c6a79d041b4f3a6589eb7fb8":[9,0,34,10],
+"df/dce/namespacegraph.html#a64c1db5aad7502c6f08e4652f6edd463":[9,0,34,11],
 "df/dce/namespacegraph.html#a83ab16e96cec644109a58dfc9329bc2b":[9,0,34,12],
 "df/dce/namespacegraph.html#a84b0551489c613a681cc83b34450da4b":[9,0,34,13],
 "df/dce/namespacegraph.html#a8e1b547cd407c0774e63f0dc95cda9e7":[9,0,34,7],
@@ -116,8 +123,8 @@ var NAVTREEINDEX13 =
 "globals_defs.html":[11,1,4],
 "globals_e.html":[11,1,0,5],
 "globals_f.html":[11,1,0,6],
-"globals_func.html":[11,1,1,0],
 "globals_func.html":[11,1,1],
+"globals_func.html":[11,1,1,0],
 "globals_func_a.html":[11,1,1,1],
 "globals_func_b.html":[11,1,1,2],
 "globals_func_c.html":[11,1,1,3],
